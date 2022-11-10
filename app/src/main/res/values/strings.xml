@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FishBook</string>
+    <string name="fish">Рыбы</string>
+    <string name="naj">Наживки</string>
+    <string name="sna">Снасти</string>
+    <string name="his">Истории</string>
+    <string name="fish_book">Fish Book</string>
+</resources>
